@@ -1,5 +1,7 @@
 # Aula 2 - Das Obrigações
 
+Quinta-Feira, 27 de Agosto de 2020.
+
 * Importância dessa parte especial
 
 * Conceito de "obrigações"
@@ -15,7 +17,7 @@
 >
 > - juri popular somente para homicídio doloso
 
-De onde vem a história de comparar a negligência exorbitante ao dolo?
+**De onde vem a história de comparar a negligência exorbitante ao dolo?**
 
 Segundo o direito romano, se o devedor e o contrato não cumprir de sua obrigação de maneira inaceitável, é passível de se aplicar a mesma punição de dolo.
 
@@ -89,11 +91,10 @@ O mutuante é aquele que cede o dinheiro
 
 O mutuário é aquele que pega o dinheiro
 
-> A atuação dos agiotas em Roma 
+> - A atuação dos agiotas em Roma;
+> - Quem empresta dinheiro; 
 
-> Quem empresta o dinheiro e 
-
-Outro contrato gratuito
+ Outro contrato gratuito
 
 > empréstimo de coisa intulgivel, como o empréstimo de um apartamento (comodato)
 
@@ -105,7 +106,7 @@ No esquema dos contratos gratuitos não basta o acordo de vontades, a validade d
 
 ---
 
-**Obrigado**
+#### **Obrigado**
 
 Thomas Mark, autor do manual de Direito Romano, afirmou: Como se diz obrigado em italiano: *grattie*
 

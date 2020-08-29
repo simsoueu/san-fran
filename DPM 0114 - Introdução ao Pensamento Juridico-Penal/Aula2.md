@@ -1,4 +1,4 @@
-#### Aula 2 - Dos Delitos e Das Penas (Cesare Beccaria)
+# Aula 2 - Dos Delitos e Das Penas (Cesare Beccaria)
 
 O livro do Beccaria é um divisor de águas porque é um livro que divide o sistema punitivo do "antigo regime" para um novo direito penal, do liberalismo, do iluminismo. Baseado em uma série de pressupostos  ….
 
@@ -16,7 +16,7 @@ Manuel de Iribe "Discurso sobre a pena", descreve maneiras alternativas de condu
 
 Começando pelo título, é possível se identificar a dualidade que faz parte da excessiva do sistema criminal: estudo dos **delitos** e as **penas**
 
-###### O que é crime?
+#### O que é crime?
 
 É uma infração da norma, o estado diz que determinadas condutas são proibidas (ou ordenadas), e quando a vontade do soberano vai em contrariedade do cidadão ocorre um crime.
 
@@ -46,7 +46,7 @@ Portanto existe uma filtragem dos elementos que nasce da dimensão de garantia, 
 
 ---
 
-##### As fontes do Direito Penal
+#### As fontes do Direito Penal
 
 O Direito Penal tem grande apego a noção de **legalidade**, os costumes e jurisprudência tem sua importância no âmbito civil, porém no sistema criminal há hegemonia clara das leis. 
 
@@ -80,7 +80,9 @@ Parte da ideia de um conhecimento aplicado para a atender as expectativas de um 
 >
 > "a descriminalização do uso de drogas permite que o sistema de segurança e saúde sejam profundamente alterados e que haverá um possível benefício para toda a sociedade". Essa é uma abordagem de política criminal 
 
-###### Criminologia
+---
+
+#### Criminologia
 
 Esta por sua vez tem dois momentos, em um primeiro momento faz-se a pergunta
 

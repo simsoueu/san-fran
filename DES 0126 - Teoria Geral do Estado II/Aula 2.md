@@ -21,11 +21,13 @@ No início do estado de direito foram observados os mandatos, exercidos na forma
 
 A partir do século XIX as revoluções industriais, a urbanização permitiu que a questão social fosse de cada vez maior relevância na vida social dos trabalhadores. O pensamento socialista, mediante o uso dos sindicatos permitiram o desenvolvimento de “estados sociais”.
 
-Os partidos políticos populares Stwart Mill, definem que os detentores de mandato não devem atuar com viés de “clientela” aos seus eleitores, uma vez que estes não representam apenas os constituintes que não votaram neles. Citando-se como exemplo os três senadores eleitos pelo estado de São Paulo, eles devem atuar representado não apenas a população de São Paulo, mas do país como um todo. Assim os “representantes do povo” deve ter um comportamento adequado a sua campanha política e a sua filiação partidária.
+> Os partidos políticos populares Stwart Mill, definem que os detentores de mandato não devem atuar com viés de “clientela” aos seus eleitores, uma vez que estes não representam apenas os constituintes que não votaram neles. Citando-se como exemplo os três senadores eleitos pelo estado de São Paulo, eles devem atuar representado não apenas a população de São Paulo, mas do país como um todo. Assim os “representantes do povo” deve ter um comportamento adequado a sua campanha política e a sua filiação partidária.
 
 Em respeito aos direitos individuais, os representantes do povo podem se abster de votar. Em alguns casos, o representante justifica o seu direito individual da pessoa, de livre e espontânea vontade, de se abster. 
 
 O artigo 47 da Constituição Federal diz que nessa atuação como representante do povo, as casas legislativas só podem abrir os trabalhos se a metade do número de representantes das casas estivem presentes, formando um quorum de funcionamento de casas legislativas do Brasil como um todo. 
+
+> **Artigo 47**  Salvo disposição constitucional em contrário, as deliberações de cada Casa e de suas comissões serão tomadas por maioria dos votos, presente a maioria absoluta de seus membros.
 
 As casas legislativas são capitaneadas pelas casas legislativas que escolhem a mesa diretora (presidente, vice-presidente, primeiro secretário, segundo secretario)… cabe a estes verificar o quorum de presença. Depois de realizada essa verificação pode-se seguir para a votação. 
 
@@ -35,27 +37,25 @@ Para o início das votações é necessário que a mesa diretora verifique se ex
 
 Se a pessoa não estiver filiada a um partido ela não poderá ser representante do povo, há uma tese para garantir a existência de candidaturas autônomas - para isso seria necessário um emenda na Constituição. 
 
-Burke “um corpo de homens que se unem, para colocar
+- Burke “um corpo de homens que se unem, para colocar
+- Constan, Benjamin “uma reunião de homens que professam a mesma doutrina política”
+- Mill, os trabalhadores devem participar politicamente para amenizar os conflitos políticos.
 
-Constan, Benjamin “uma reunião de homens que professam a mesma doutrina política”
-
-Mill, os trabalhadores devem participar politicamente para amenizar os conflitos políticos.
-
-## Organização dos Partidos Políticos
+### Organização dos Partidos Políticos
 
 Uma das formas de se conhecer os partidos políticos é adentrar neles, lendo seus estatutos, tem-se basicamente dois tipos de partidos: 
 Partidos que exigem obrigações de seus filiados e os que não 
 
 O código eleitoral brasileiro exige que os partidos atuem em eleições municipais. Dependendo de seu desempenho ele pode participar de eleições estaduais. E a partir do desempenho nas eleições estaduais este partido se habilita a concorrer em eleições federais.
 
-Cada Constiuição possui leis eleitorais distintas, há sistemas uni-partidarios, bi-partidarios, e multi-partidarios (como o Brasil contemporâneo). É quase que impossível que o unipartidarismo seja estabelecido em países considerados democráticos. Durante a ditadura brasileira da década de 1970, foram muito presentes as manifestações contrárias ao governo, assim as lideranças de oposição, mediante determinação legal foi estabelecido o MDB. Enquanto que a atuação do governo militar era representada pela ARENA. 
+Cada constituição possui leis eleitorais distintas, há sistemas uni-partidários, bi-partidários, e multi-partidários (como o Brasil contemporâneo). É quase que impossível que o uni-partidarismo seja estabelecido em países considerados democráticos. Durante a ditadura brasileira da década de 1970, foram muito presentes as manifestações contrárias ao governo, assim as lideranças de oposição, mediante determinação legal foi estabelecido o MDB. Enquanto que a atuação do governo militar era representada pela ARENA. 
 
 Os candidatos do MDB eram sempre eleitos, 
-Não é a legislação que impõe o bipartidarismo, como é o caso dos Estados Unidos da América, no qual históricamente Democratas e Republicanos se revesam no poder. Embora a Constituição norte-americana não define que deve ser dessa forma.
+Não é a legislação que impõe o bipartidarismo, como é o caso dos Estados Unidos da América, no qual historicamente Democratas e Republicanos se revesam no poder. Embora a Constituição norte-americana não define que deve ser dessa forma.
 
 A Inglaterra é um país com multi-partidarismo, em que há um revezamento entre os partidos que estabelecem a maioria, e de acordo com a alternância histórica é normalmente realizado um revezamento entre os Trabalhistas, Liberais e Conservadores.
 
-## Quanto ao âmbito da atuação
+### Quanto ao âmbito da atuação
 - Interesse local: como o partido dos aposentados
 - Interesse regional: como o PDT
 - Interesse nacional: partidos que em tese tem vocação universal, o partido PSDB, por exemplo é um partido que advém de questões políticas bem definidas. O PTB se apresenta com detentores de ideias Getulistas, segundo eles próprios seguindo o modelo do trabalhismo inglês. 

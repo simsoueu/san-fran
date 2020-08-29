@@ -1,4 +1,4 @@
-## DCV 0128 - História do Direito
+# DCV 0128 - História do Direito
 
 ### Aula 2 - Direito da Grécia Antiga
 
