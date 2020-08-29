@@ -1,5 +1,3 @@
-link:https://meet.google.com/zke-mtpm-kgr?pli=1&authuser=1
-
 # Aula 04 - Ato/Fato Jurídico
 
 Quinta-Feira, 27 de Agosto de 2020
@@ -209,3 +207,9 @@ Portanto as seguintes características devem ser respeitadas:
 Para um casamento é necessário uma efetivação transformada pela união estável,  ou um cartório civil, ou uma cerimonia religiosa.
 
 Não é possível um casamento sem o reconhecimento cartorário ou sem uma instituição religiosa com atribuição legal.
+
+
+
+
+
+> link:https://meet.google.com/zke-mtpm-kgr?pli=1&authuser=1
