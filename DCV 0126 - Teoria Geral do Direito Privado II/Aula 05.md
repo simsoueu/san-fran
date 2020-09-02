@@ -208,11 +208,21 @@ Para fazerem parte do negócio precisam estar expressos neles.
 
 Não necessitam estar no contrato, mas estando alteram os elementos naturais, como o prazo
 
-##### Espécies
+#### De Espécies
 
-- Condição: Eu vendo se amanha chover
-- Termo: Eu vendo daqui a um mês
+- Condição: 
+
+  > Eu vendo se amanha chover
+  >
+  > **Se** você passar na prova eu te compro um carro
+
+- Termo: 
+
+  > Eu vendo daqui a um mês
+
 - Encargo: 
+
+  > Qu
 
 #### De Estilo
 
