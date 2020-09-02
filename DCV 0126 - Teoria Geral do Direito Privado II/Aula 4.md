@@ -74,11 +74,11 @@ Fato que gera repercussão jurídica pode vir de duas fontes:
       
       **Situação** Estado de necessidade
       
-        Todo o dano cometido em caso de necessidade que cause um dano ao outrem a sua vontade será desprezada, precisamos desconsiderar totalmente a intenção do agente.
+      Todo o dano cometido em caso de necessidade que cause um dano ao outrem a sua vontade será desprezada, precisamos desconsiderar totalmente a intenção do agente.
       
-        Toda pessoa que agir para salvar a sua vida ou a de alguém que está em eminente risco. Não será punida pelo dano. A vontade do agente será desprezada.
+      Toda pessoa que agir para salvar a sua vida ou a de alguém que está em eminente risco. Não será punida pelo dano. A vontade do agente será desprezada.
       
-        O estado de necessidade é vinculado a uma ação não caracterizada pela vontade plena. Assim a vontade é desprezada.
+      O estado de necessidade é vinculado a uma ação não caracterizada pela vontade plena. Assim a vontade é desprezada.
       
         > A **legitima defesa** é uma justificativa de necessidade na esfera penal.
       

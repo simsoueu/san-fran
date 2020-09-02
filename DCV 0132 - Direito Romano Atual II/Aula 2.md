@@ -118,7 +118,7 @@ e em português: *obrigado*
 
 O fenômeno é que alguns termos jurídicos da Roma antiga passavam pelo latim vulgar, é quase certo que a obrigacio romana (relação credor-devedor num contrato oneroso) tenha uma influência no português.
 
-**- Muito obrigado!** 
+> **- Muito obrigado!** 
 
 Muito obrigado a retribuir a esse favor com uma nova prestação. Quem pratica o favor presta uma prestação. E quem recebe o favor deve retribuí-lo.
 
