@@ -1,8 +1,9 @@
-# You Don't Know JS Yet (book series) - 2nd Edition
+# Diario das Disciplina de Direito
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
+Este repo tem como finalidade acompanhar o registro diario das atividades desempenhadas durante o segundo semestre do curso de bacharelado em Direito, na Faculdade de Direito da Universidade de São Paulo, durante o período do segundo semestre do ano de 2020.
 
-<a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
-<a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
+As disciplinas são:
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+[Introdução ao Pensamento Jurídico-Penal](./DPM 0114 - Introdução ao Pensamento Juridico-Penal/Aula 02.md)
+
+**the [Preface](preface.md).**
